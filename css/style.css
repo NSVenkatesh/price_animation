@@ -120,14 +120,14 @@ body{
   text-underline-offset: 2px;
   cursor: pointer;
   z-index: 5;
-  padding: 0 0 40px;
+  padding: 0 0 50px;
 }
 
 .set .btn1 {
-  margin-top: 100px;
+  margin-top: 110px;
 }
 .set .btn2 {
-  margin-top: 73px;
+  margin-top: 83px;
 }
 .set .more li {
   text-align: left;
