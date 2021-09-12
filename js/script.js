@@ -1,11 +1,11 @@
 $(document).ready(function(){
     $(".more_option").click(function(){
         $(".change").html("less");
-        $(".more").show().animate({"top":0},400);
+        $(".more").show().animate({"top":0},600);
     })
     $(".cut").click(function(){
         $(".change").html("more");
-        $(".more").animate({"top":"335px"},400);
+        $(".more").animate({"top":"335px"},600);
         // $(".more").hide();
     })
     $("#yearly").click(function(){
